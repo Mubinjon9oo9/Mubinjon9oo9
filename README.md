@@ -7,8 +7,8 @@ Welcome to my GitHub! Here you will find my projects and repositories reflecting
 ## 📊 My GitHub Statistics
 
 <div style="display: flex; justify-content: space-around; align-items: start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubinjon9oo9&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" alt="Language Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mubinjon9oo9&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="Commit Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubinjon9oo9&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" alt="Language Stats" style="vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mubinjon9oo9&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="Interaction Stats" style="vertical-align: top;"/>
 </div>
 
 ---
@@ -30,3 +30,6 @@ Welcome to my GitHub! Here you will find my projects and repositories reflecting
 - **Frameworks**: Spring, Flutter
 - **Others**: Git, MySQL, PostgreSQL, SQLite, Maven, Gradle, Docker, Bootstrap
 
+---
+
+Thank you for visiting my profile! Come back often 😊.
